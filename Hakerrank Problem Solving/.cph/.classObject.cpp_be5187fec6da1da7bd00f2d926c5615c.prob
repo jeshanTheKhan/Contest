@@ -1,0 +1,1 @@
+{"name":"Local: classObject","url":"e:\\Problem-Solving\\Hakerrank Problem Solving\\classObject.cpp","tests":[{"id":1714047180783,"input":"3\n30 40 45 10 10\n40 40 40 10 10\n50 20 30 10 10","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Problem-Solving\\Hakerrank Problem Solving\\classObject.cpp","group":"local","local":true}

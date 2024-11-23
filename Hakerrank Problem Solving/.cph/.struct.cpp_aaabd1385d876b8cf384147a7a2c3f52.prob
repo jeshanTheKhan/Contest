@@ -1,0 +1,1 @@
+{"name":"Local: struct","url":"e:\\Problem-Solving\\Hakerrank Problem Solving\\struct.cpp","tests":[{"id":1714088240672,"input":"15\njohn\ncarmack\n10","output":"15 john carmack 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Problem-Solving\\Hakerrank Problem Solving\\struct.cpp","group":"local","local":true}
